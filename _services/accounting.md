@@ -8,77 +8,36 @@ Doğu ve Güneydoğu Anadolu'nun en kaliteli biberlerinden elde edilen acı bibe
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Salçalarımız
 
-Financial accounting and financial reporting are often used as synonyms.
+### 1. Urfa Birecik Yöresi Acı Biber Salçası
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Urfa Birecik yöresinde yetiştirilen biberlerden üretilen acı biber salçası, Urfa'nın sıcak iklimi ve verimli topraklarının ürünü. Tamamen geleneksel yöntemlerle hazırlanan bu salça, güçlü acılığı ve yoğun biber aroması ile ön plana çıkar. Özellikle kebaplar, et yemekleri, çorbalar ve mezelerde harika bir tamamlayıcıdır.
 
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Üretim Yöntemi:** Biberler güneşte kurutulur, daha sonra taş değirmenlerde ezilerek salça haline getirilir. Bu sayede yoğun biber aroması korunur ve hiçbir katkı maddesi içermez.
+- **Lezzet Profili:** Yoğun ve güçlü bir acılık; kırmızı biberin doğal aroması hissedilir.
+- **Kullanım Alanları:** Et yemekleri, çorbalar, zeytinyağlı yemekler ve yöresel kebaplar için idealdir.
 
 ---
 
-## Statement of cash flows
+### 2. Gaziantep Acı Biber Salçası
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Gaziantep yöresinde yetişen biberlerden üretilen acı biber salçası, Antep’in lezzet dünyasında önemli bir yere sahiptir. Antep biberi, Urfa biberine göre daha tatlımsı ve hafif bir acılığa sahiptir. Geleneksel yöntemlerle üretilen bu salça, yemeklere hem renk hem de lezzet katar. Tatlı-acı dengesi ile her damak zevkine hitap eder.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+- **Üretim Yöntemi:** Antep biberleri toplanır, güneşte kurutulur ve geleneksel taş değirmenlerde işlenir. Bu yöntem biberlerin doğal lezzetini ve vitaminlerini korur.
+- **Lezzet Profili:** Hafif acılık, tatlımsı ve daha yumuşak bir biber tadı.
+- **Kullanım Alanları:** Dolmalar, sebze yemekleri, soslar ve pilavlarda kullanılabilir. Hafif acı ve tatlı karışımı ile çok yönlü bir salçadır.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+---
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+## Urfa ve Antep Salçalarının Farkları
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+- **Acılık Seviyesi:** Urfa Birecik yöresi biberlerinden yapılan salça, çok daha yoğun ve sert bir acılığa sahiptir. Gaziantep salçası ise tatlımsı bir lezzete sahip olup daha hafif bir acılık sunar.
+- **Aroma:** Urfa salçası, daha yoğun ve baharatlı bir biber tadı sunarken, Antep salçası daha hafif, tatlımsı ve dengeli bir aromaya sahiptir.
+- **Kullanım Alanları:** Urfa salçası daha çok acı severler için yoğun et yemeklerinde ve kebaplarda tercih edilirken, Antep salçası daha çok sebze yemekleri, dolmalar ve daha hafif yemeklerde kullanılır.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+---
 
-## Statement of financial position (balance sheet)
+## WhatsApp ile Sipariş Ver
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Salçalarımızı denemek için hemen WhatsApp üzerinden sipariş verebilirsiniz! Türkiye, İngiltere ve Avrupa’nın her noktasına hızlı teslimat.
