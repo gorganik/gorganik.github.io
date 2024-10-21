@@ -1,86 +1,44 @@
 ---
-title: "Superannuation"
+title: "Sumak Ekşisi"
 date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Doğal ve katkısız olarak üretilen sumak ekşimiz, Türkiye’nin en kaliteli sumak tanelerinden elde edilir. Geleneksel yöntemlerle hazırlanan bu lezzet, yemeklerinize ekşi ve aromatik bir tat katar. Özellikle salatalarda ve et yemeklerinde tercih edilen sumak ekşisi, zengin bir lezzet profili sunar ve sofralarınızda vazgeçilmez bir tat haline gelir.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Sumak Ekşisi
 
-Financial accounting and financial reporting are often used as synonyms.
+Sumak ekşisi, ekşi ve hafif buruk tadıyla Türk mutfağının geleneksel lezzetlerinden biridir. Sumak tanelerinin ezilerek suyu çıkarılır ve bu su, yavaş yavaş yoğunlaştırılır. Doğal ve katkısız olan sumak ekşisi, yemeklerinize ferahlatıcı ve lezzetli bir tat katarken, aynı zamanda sağlıklı bir alternatif sunar.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Üretim Yöntemi:** Sumak taneleri ezilerek suyu elde edilir ve bu su, geleneksel yöntemlerle kaynatılarak yoğunlaştırılır. Hiçbir katkı maddesi içermez.
+- **Lezzet Profili:** Ekşi, hafif buruk ve ferahlatıcı bir tat.
+- **Kullanım Alanları:** Salatalar, mezeler, et yemekleri ve soslar.
 
 ---
 
-## Statement of cash flows
+## Sumak Ekşisinin Faydaları
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Sumak ekşisi, sadece yemeklere lezzet katmakla kalmaz, aynı zamanda sağlığınıza birçok fayda sunar. Antioksidanlar açısından zengin olan bu doğal ürün, bağışıklık sisteminizi destekler ve sindirime yardımcı olur.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+- **Antioksidan Zengini:** Sumak ekşisi, içerdiği antioksidanlar sayesinde vücudu serbest radikallerden korur ve genel sağlığı destekler.
+- **Sindirim Sistemine Yardımcı:** Sumak ekşisi, mideyi rahatlatır ve sindirimi kolaylaştırır.
+- **İltihap Giderici:** Sumak, doğal anti-enflamatuvar özellikleriyle bilinir, bu da vücuttaki iltihapları azaltmaya yardımcı olabilir.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+---
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+## Nasıl Kullanılır?
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+Sumak ekşisi, yemeklerinize ekşi bir tat ve derinlik katmak için birçok farklı şekilde kullanılabilir. Salatalardan et yemeklerine kadar geniş bir kullanım alanı sunar.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+- **Salatalar:** Özellikle mevsim salatalarında tercih edilir, ferahlatıcı ve ekşi bir aroma sağlar.
+- **Et Yemekleri:** Izgara etler ve kebaplarla mükemmel uyum sağlar, ete ekstra bir lezzet derinliği katar.
+- **Soslar ve Mezeler:** Sos ve mezelere ekşi bir dokunuş eklemek için kullanılabilir.
 
-## Statement of financial position (balance sheet)
+---
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+## WhatsApp ile Sipariş Ver
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Sumak ekşimizi denemek için hemen WhatsApp üzerinden sipariş verebilirsiniz! Türkiye, İngiltere ve Avrupa’nın her noktasına hızlı teslimat sağlıyoruz.
