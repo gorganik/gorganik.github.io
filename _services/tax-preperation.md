@@ -1,87 +1,42 @@
 ---
-title: "Tax Preperation"
+title: "Tarhana"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Türk mutfağının geleneksel lezzetlerinden biri olan tarhanamız, özenle seçilmiş malzemelerle hazırlanmıştır. Tarhana, yoğurt, un, sebze ve baharatların karıştırılmasıyla elde edilen doğal bir gıda ürünüdür. Geleneksel yöntemlerle kurutulmuş olan tarhanamız, zengin besin değerleri ile sofralarınıza lezzet ve sağlık katmaktadır.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+Tarhana, özellikle kış aylarında sıklıkla tüketilen bir çorba çeşididir. Geleneksel tariflerle hazırlanan tarhanamız, yoğurt, un, sebzeler ve baharatların karıştırılmasıyla elde edilir. Besleyici ve doyurucu yapısıyla, hem çocuklar hem de yetişkinler için ideal bir besin kaynağıdır.
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Üretim Yöntemi:** Taze sebzeler, yoğurt ve un, geleneksel tariflere uygun olarak karıştırılır ve kurutulur. Böylece besin değerleri korunur.
+- **Lezzet Profili:** Yoğun sebze aroması, hafif ekşi ve baharatlı tat.
+- **Kullanım Alanları:** Çorba, sos, köfte harcı ve çeşitli yemeklerde kullanılabilir.
 
 ---
 
-## Statement of cash flows
+## Tarhananın Faydaları
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Tarhana, hem lezzeti hem de sağlığa olan faydalarıyla dikkat çeker. Zengin besin içeriği, bağışıklık sistemini destekler ve sindirimi kolaylaştırır.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+- **Zengin Besin Değeri:** Tarhana, protein, lif ve vitaminler açısından zengindir.
+- **Sindirim Sistemi Dostu:** İçeriğindeki probiyotikler sayesinde sindirimi kolaylaştırır ve bağırsak sağlığını destekler.
+- **Bağışıklık Sistemi Güçlendirici:** Tarhana, vitamin ve mineral içeriği sayesinde bağışıklığı güçlendirir ve hastalıklara karşı koruma sağlar.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+---
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+## Nasıl Kullanılır?
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+Tarhanayı çorba olarak tüketmenin yanı sıra, çeşitli yemeklerde de kullanabilirsiniz. İşte birkaç öneri:
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+- **Çorba:**  Tarhanayı sıcak su veya et suyuyla karıştırarak lezzetli bir çorba hazırlayabilirsiniz.
+- **Sos:** Tarhanayı su veya yoğurtla karıştırarak sos olarak kullanabilirsiniz.
+- **Köfte Harcı:** Tarhanayı köfte harcınıza ekleyerek lezzet katabilirsiniz.
 
-## Statement of financial position (balance sheet)
+---
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+## WhatsApp ile Sipariş Ver
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Tarhanamızı denemek için hemen WhatsApp üzerinden sipariş verebilirsiniz! Türkiye, İngiltere ve Avrupa’nın her noktasına hızlı teslimat sağlıyoruz.
