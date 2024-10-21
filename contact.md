@@ -1,16 +1,12 @@
 ---
-title: Contact
+title: İletişim
 layout: contact
-description: Contact
+description: İletişim
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Sorularınız veya daha fazla bilgi almak için WhatsApp hattımızdan veya aşağıdaki numaradan bize ulaşabilirsiniz:
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Müşteri Hizmetleri: +420 728 845 978
+
+Size yardımcı olmaktan memnuniyet duyarız!
+
