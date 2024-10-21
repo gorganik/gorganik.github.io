@@ -1,86 +1,44 @@
 ---
-title: "Mergers"
+title: "Nar Ekşisi"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Doğal ve katkısız olarak elde edilen nar ekşimiz, Türkiye’nin en verimli nar bahçelerinden toplanan taze narların geleneksel yöntemlerle işlenmesiyle üretilir. Lezzetinin yoğunluğu ve zengin aromasıyla yemeklere ayrı bir derinlik katar. Salatalardan et yemeklerine kadar geniş bir kullanım alanına sahip olan nar ekşisi, sofralarınızda vazgeçilmez bir tat haline gelecek.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Nar Ekşisi
 
-Financial accounting and financial reporting are often used as synonyms.
+Nar ekşisi, Türk mutfağının en sevilen ve en çok kullanılan soslarından biridir. Özenle seçilen narların suyu çıkarılır ve yavaş yavaş kaynatılarak yoğunlaştırılır. Hiçbir katkı maddesi içermeyen bu nar ekşisi, tamamen doğal bir üründür ve yemeklere tatlı, ekşi bir denge katar.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Üretim Yöntemi:** Nar taneleri sıkılarak suyu elde edilir, bu su geleneksel yöntemlerle düşük ateşte yavaş yavaş kaynatılarak yoğunlaştırılır. Hiçbir koruyucu ya da katkı maddesi eklenmez.
+- **Lezzet Profili:** Tatlı ve ekşi lezzetin mükemmel dengesi; doğal nar aroması yoğun şekilde hissedilir.
+- **Kullanım Alanları:** Salatalar, mezeler, marineler, et ve sebze yemekleri.
 
 ---
 
-## Statement of cash flows
+## Nar Ekşisinin Faydaları
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Nar ekşisi, sadece lezzet katmakla kalmaz, aynı zamanda sağlığa birçok fayda sağlar. Zengin antioksidan içeriği sayesinde bağışıklığı destekler ve vücudu serbest radikallerden korur.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+- **Antioksidan Kaynağı:** Nar ekşisi, özellikle polifenoller açısından zengindir ve bu sayede vücudu serbest radikallere karşı korur.
+- **Sindirim Sistemine Destek:** Nar ekşisi, mide ve bağırsak sağlığını destekler, sindirimi kolaylaştırır.
+- **Kalp Sağlığına Katkı:** Düzenli olarak tüketildiğinde, nar ekşisinin kalp sağlığını olumlu yönde desteklediği bilinmektedir.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+---
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+## Nasıl Kullanılır?
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+Nar ekşisi, yemeklerinize eşsiz bir lezzet katmak için birçok farklı şekilde kullanılabilir. Salatalardan et yemeklerine kadar geniş bir kullanım alanına sahiptir.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+- **Salatalar:** Özellikle mevsim salataları ve kısır gibi yemeklerde tercih edilir, tatlı ve ekşi dengesi sağlar.
+- **Et Marineleri:** Etlerin marinasyonunda kullanıldığında ete zengin bir aroma ve yumuşaklık katar.
+- **Sebze Yemekleri:** Zeytinyağlı sebze yemeklerine ekşi bir dokunuş katarak lezzeti artırır.
 
-## Statement of financial position (balance sheet)
+---
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+## WhatsApp ile Sipariş Ver
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Nar ekşimizi denemek için hemen WhatsApp üzerinden sipariş verebilirsiniz! Türkiye, İngiltere ve Avrupa’nın her noktasına hızlı teslimat sağlıyoruz.
