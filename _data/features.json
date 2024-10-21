@@ -4,8 +4,8 @@
     "description": "Yurt İçi Siparişler: 1 hafta, Yurt Dışı Siparişler: Bulunduğunuz ülkeye göre teslimat süresi 2-3 hafta arasında değişebilmektedir.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
+      "width": 60,
+      "height": 60
     }
   },
   {
@@ -13,8 +13,8 @@
     "description": "Yurt Dışı Siparişler: Minimum 500 Euro, Yurt İçi Siparişler: Minimum 2000 Türk Lirası.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
+      "width": 60,
+      "height": 60
     }
   },
   {
@@ -22,12 +22,12 @@
     "description": "Gönderilerimiz, anlaşmalı kargolarımız aracılığıyla yapılmaktadır. Nakliye ücretleri, sipariş edeceğiniz ürün bilgisini verdiğinizde sizinle paylaşılacaktır.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
+      "width": 60,
+      "height": 60
     }
   },
   {
-    "title": "Listeminizde Olmayan Ürünler",
+    "title": "Listemizde Olmayan Ürünler",
     "description": "İsteğe bağlı olarak, Türkiye'nin farklı bölgelerinden geleneksel ve yöresel ürünleri temin etme imkanı sunuyoruz. Belirli sipariş limitleri dahilinde, aradığınız yöresel ürünleri iç piyasadan tedarik ederek, yurt dışındaki adresinize güvenli bir şekilde ulaştırıyoruz. Toptan siparişler için özelleştirilmiş çözümler sunarak, her ihtiyaca uygun hizmet sağlamaktayız.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
