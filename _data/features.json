@@ -25,5 +25,14 @@
       "width": 80,
       "height": 80
     }
+  },
+  {
+    "title": "Listeminizde Olmayan Ürünler",
+    "description": "İsteğe bağlı olarak, Türkiye'nin farklı bölgelerinden geleneksel ve yöresel ürünleri temin etme imkanı sunuyoruz. Belirli sipariş limitleri dahilinde, aradığınız yöresel ürünleri iç piyasadan tedarik ederek, yurt dışındaki adresinize güvenli bir şekilde ulaştırıyoruz. Toptan siparişler için özelleştirilmiş çözümler sunarak, her ihtiyaca uygun hizmet sağlamaktayız.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
   }
 ]
