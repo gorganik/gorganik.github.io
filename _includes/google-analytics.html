@@ -1,21 +1,19 @@
 {% if jekyll.environment == "production" %}
-    {% assign gid = site.env.NETLIFY_GOOGLE_ANALYTICS_ID %}
+    {% assign gid = "G-C84L4BE3ED" %}  <!-- Directly assign the Google Analytics ID -->
     {% if gid %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ gid }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-
       function gtag() {
         dataLayer.push(arguments);
       }
       gtag('js', new Date());
-      gtag('config', '{{ $gid }}');
+      gtag('config', '{{ gid }}');  <!-- Use gid variable for configuration -->
     </script>
     {% elsif site.data.seo.google_analytics_id %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.data.seo.google_analytics_id }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-
       function gtag() {
         dataLayer.push(arguments);
       }
